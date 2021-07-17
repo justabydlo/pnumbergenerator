@@ -1,0 +1,7 @@
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\bin\Debug\GenerateP.exe.config
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\bin\Debug\GenerateP.exe
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\bin\Debug\GenerateP.pdb
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\obj\Debug\GenerateP.csproj.AssemblyReference.cache
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\obj\Debug\GenerateP.csproj.CoreCompileInputs.cache
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\obj\Debug\GenerateP.exe
+C:\Users\dan99\Source\Repos\pnumbergenerator1\GenerateP\GenerateP\obj\Debug\GenerateP.pdb
