@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime;
 
 namespace pnumbergenerator
 {
@@ -6,7 +7,8 @@ namespace pnumbergenerator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Title = "P number generator with using Monte Carlo method";
+            Console.ReadKey();
         }
     }
 }
